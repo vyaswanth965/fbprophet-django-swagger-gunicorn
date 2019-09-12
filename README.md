@@ -1,6 +1,10 @@
-open terminal 
+Description:
+Model training by grid based fbprophet.
+API creation that used to forecast visit counts based on a given parameter.
 
-Run below commands
+
+Deployment:
+open terminal & Run below commands
 
 1. cd project
 
