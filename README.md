@@ -26,3 +26,8 @@ column_name : sc_code
 values : cna11h
 start_date : 2019-7-1
 end_date : 2019-8-10   
+
+![alt text](https://github.com/vyaswanth965/fbprophet-django-swagger-gunicorn/blob/master/Screenshot%20from%202019-09-12%2016-52-52.png)
+![alt text](https://github.com/vyaswanth965/fbprophet-django-swagger-gunicorn/blob/master/Screenshot%20from%202019-09-12%2016-53-36.png)
+![alt text](https://github.com/vyaswanth965/fbprophet-django-swagger-gunicorn/blob/master/Screenshot%20from%202019-09-12%2016-54-29.png)
+
